@@ -1,0 +1,11 @@
+D:\Project\CollectionDemo\CollectionDemo\bin\Debug\CollectionDemo.exe.config
+D:\Project\CollectionDemo\CollectionDemo\bin\Debug\CollectionDemo.exe
+D:\Project\CollectionDemo\CollectionDemo\bin\Debug\CollectionDemo.pdb
+D:\Project\CollectionDemo\CollectionDemo\obj\Debug\CollectionDemo.csproj.AssemblyReference.cache
+D:\Project\CollectionDemo\CollectionDemo\obj\Debug\CollectionDemo.csproj.SuggestedBindingRedirects.cache
+D:\Project\CollectionDemo\CollectionDemo\obj\Debug\CollectionDemo.Form1.resources
+D:\Project\CollectionDemo\CollectionDemo\obj\Debug\CollectionDemo.Properties.Resources.resources
+D:\Project\CollectionDemo\CollectionDemo\obj\Debug\CollectionDemo.csproj.GenerateResource.cache
+D:\Project\CollectionDemo\CollectionDemo\obj\Debug\CollectionDemo.csproj.CoreCompileInputs.cache
+D:\Project\CollectionDemo\CollectionDemo\obj\Debug\CollectionDemo.exe
+D:\Project\CollectionDemo\CollectionDemo\obj\Debug\CollectionDemo.pdb
